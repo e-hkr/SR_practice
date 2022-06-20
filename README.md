@@ -6,7 +6,7 @@
 |![imagesフォルダのlow_sample.png参照](./images/low_sample.png "低解像度画像")|⇒|![imagesフォルダのhigh_sample.png参照](./images/high_sample.png "高解像度画像")|
 
 超解像技術とは画像を高解像度化する技術です。  
-ある気象データを使って超解像タスクに挑戦してみました。
+ある気象データを使って超解像タスクに挑戦してみました。  
 
 ## train_test.ipynb
 モデルの学習とテスト
