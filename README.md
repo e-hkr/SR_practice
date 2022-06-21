@@ -16,22 +16,21 @@
 - CNN③(SE-SRResNet)
 
 
-## metrics_visualization.ipynb
-予測結果の評価と可視化
-<details><summary>metrics</summary>
-
+## metrics.ipynb
+予測結果の評価
 - PSNR(ピーク信号対雑音比)
 - RMSE(二乗平均平方根誤差)
 - ME(平均誤差)
 - CORR(ピアソンの積率相関係数)
-</details>
-<details><summary>graphs・images</summary>
 
+## visualization1.ipynb
+予測結果の可視化
 - サンプルgif
 - ヒストグラム
 - 時系列グラフ
+
+## visualization2.ipynb
+予測結果の可視化
 - 日変動グラフ
 - 領域マップ
 - 散布図(yyplot)
-</details>
-
